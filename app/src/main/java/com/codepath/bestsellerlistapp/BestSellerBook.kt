@@ -21,9 +21,20 @@ class BestSellerBook {
     var author: String? = null
 
     //TODO bookImageUrl
+    @JvmField
+    @SerializedName("book_image")
+    val bookImageUrl: String? = null
 
 
     //TODO description
+    @JvmField
+    @SerializedName("description")
+    val description: String? = null
+
+    @JvmField
+    @SerializedName("amazon_product_url")
+    var amazonUrl: String? = null
+
 
 
     //TODO-STRETCH-GOALS amazonUrl
