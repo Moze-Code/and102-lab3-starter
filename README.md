@@ -20,7 +20,7 @@ The following **optional stretch** features are implemented:
 - [x] The "Buy" button successfully opens the page on Amazon
 
 ## Video Walkthrough
-<img src= '' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src= 'https://github.com/Moze-Code/and102-lab3-starter/blob/unit-lab-3/BestSellerList.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 GIF created with **ScreenPal**
 
